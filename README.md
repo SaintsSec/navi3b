@@ -1,2 +1,4 @@
 # navi3b
-Containment repo for the llama3.2:3b itteration of Navi. 
+
+Containment for our local itteration of Navi.  
+Currently using: WhiteRabbitNeo:7b
