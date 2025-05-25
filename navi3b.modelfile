@@ -1,4 +1,4 @@
-FROM hf.co/bartowski/WhiteRabbitNeo-2.5-Qwen-2.5-Coder-7B-GGUF:IQ4_XS
+FROM llama3.2:3b
 
 TEMPLATE "{{ if .System }}<|start_header_id|>system<|end_header_id|>
 
